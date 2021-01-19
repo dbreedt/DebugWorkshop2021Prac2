@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "debugws2": {
+      "commandName": "Project",
+      "workingDirectory": "."
+    }
+  }
+}
